@@ -21,6 +21,4 @@ void card::print()
 {
 	cout << colour << " " << number << endl;
 }
-card::~card()
-{
-}
+

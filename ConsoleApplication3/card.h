@@ -10,6 +10,7 @@ private:
 	int number;
 	string colour:
 
+
 public:
 	card(int num =0, string col="");
 	string colour();
